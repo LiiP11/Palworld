@@ -1,2 +1,2 @@
 # Palworld
- Palworld savefiles
+- Path: "/Users/username/AppData/Local/Pal/Saved/"
