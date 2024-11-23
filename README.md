@@ -1,0 +1,2 @@
+# Palworld
+ Palworld savefiles
